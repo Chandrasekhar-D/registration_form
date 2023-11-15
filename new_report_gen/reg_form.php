@@ -53,9 +53,12 @@
 
             </table>
             
+            
             <div class="btn">
                 <button class="btnIn" type="submit" >Submit</button>
             </div>
+        </form>
+    </div>  
             
 
 </body>
